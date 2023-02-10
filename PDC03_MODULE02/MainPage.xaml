@@ -22,6 +22,7 @@
         </Label>
         <Button Text="Activity1" Clicked="OpenActivity1"/>
         <Button Text="Activity2" Clicked="OpenActivity2"/>
+        <Button Text="Testing"/>
     </StackLayout>
 
 </ContentPage>
